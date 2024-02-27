@@ -53,6 +53,9 @@ ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
 Note: `UUID` is the uuid you want to set. pages.dev and worker.dev all of them method supported, but depend on your deploy method.
 
 ### UUID Setting Example
+UUIDGEN : [https://www.uuidgenerator.net)
+
+   [https://www.youtube.com/watch?v=8I-yTNHB0aw](https://www.youtube.com/watch?v=8I-yTNHB0aw)
 
 1. single uuid environment variable
 
