@@ -54,6 +54,7 @@ Note: `UUID` is the uuid you want to set. pages.dev and worker.dev all of them m
 
 ### UUID Setting Example
 UUIDGEN : https://www.uuidgenerator.net
+CEK REGION PROXYIP : https://ip2geo.org/
 
    [https://www.youtube.com/watch?v=8I-yTNHB0aw](https://www.youtube.com/watch?v=8I-yTNHB0aw)
 
